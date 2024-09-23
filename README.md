@@ -4,7 +4,9 @@ Now you can use This "Unofficial" InstaGram app to get information about the Sta
 
 The Apk is Totally Unofficial by Instagram++ , and later enhanced by Me, I can't guarantee The Risk associated with it
 
-1. Install The APK
+1(a). Visit Unofficial_InstaGram Folder
+1(b). Download the Apk , Click "View Raw" to download the file (in case you can't view the Apk file)
+1. Open Folder
 2. Unzip The Folder
 3. Password; My Instagram Username (link in bio)
 4. Install the APK
