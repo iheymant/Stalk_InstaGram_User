@@ -7,6 +7,7 @@ Now you can use This "Unofficial" InstaGram app to get information about the Sta
 
 The Apk is Totally Unofficial by Instagram++ , and later enhanced by Me, I can't guarantee The Risk associated with it
 
+ NEW UPDATE FOR ENLARGING STICKER ON ANDROID 👇
 1(a). Visit Unofficial_InstaGram Folder
 1(b). Download the Apk , Click "View Raw" to download the file (in case you can't view the Apk file)
 1. Open Folder
@@ -24,6 +25,7 @@ The Apk is Totally Unofficial by Instagram++ , and later enhanced by Me, I can't
 P.T.: in Case you can't enlarge the Sticker "There might be issue with your Android Version" , in case of that DM me on Instagram with your Device Details 
 ---
 
+Download the App to find more interesting Stalking Features 
 Here is the unofficial Instagram APK for Android
 
 ⚠️ Disclaimer: This is an unofficial version of the Instagram app. Since it’s not distributed through official channels, use it at your own risk. I cannot guarantee its security, privacy, or integrity. Be cautious when installing APKs from unofficial sources, as they may contain vulnerabilities or malicious code.
