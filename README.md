@@ -8,6 +8,9 @@ Now you can use This "Unofficial" InstaGram app to get information about the Sta
 The Apk is Totally Unofficial by Instagram++ , and later enhanced by Me, I can't guarantee The Risk associated with it
 
  NEW UPDATE FOR ENLARGING STICKER ON ANDROID 👇
+
+
+ 
 1(a). Visit Unofficial_InstaGram Folder
 1(b). Download the Apk , Click "View Raw" to download the file (in case you can't view the Apk file)
 1. Open Folder
